@@ -1,7 +1,7 @@
 # ClassicSonicCompatibilityMod
 A slight level mod to allow Classic Sonic to fully traverse Modern Sonic's Act 2 stages.
 
-- Green Hill Zone Act 2 (https://youtu.be/a0b-djC4P18)
+- Green Hill Zone Act 2 (https://youtu.be/lM5sJdTubNM)
 - Chemical Plant Act 2 (video pending)
 - Sky Sanctuary Act 2 (video pending, wip)
 - Speed Highway (not edited yet)
