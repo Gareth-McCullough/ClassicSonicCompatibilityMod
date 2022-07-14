@@ -2,7 +2,7 @@
 A slight level mod to allow Classic Sonic to fully traverse Modern Sonic's Act 2 stages.
 
 - Green Hill Zone Act 2 (https://youtu.be/IH1hHUfmyrU)
-- Chemical Plant Act 2 (not edited yet)
+- Chemical Plant Act 2 (https://youtu.be/Rop013HjE9c)
 - Sky Sanctuary Act 2 (not edited yet)
 - Speed Highway (not edited yet)
 - City Escape (beatable as-is, can be edited to change stage elements that crash the game)
