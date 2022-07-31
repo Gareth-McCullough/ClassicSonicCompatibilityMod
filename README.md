@@ -15,6 +15,6 @@ Planet Wisp likely crashes when trying to initialize the Rocket Wisp for Classic
 
 Modern Sonic's bosses and rival battles are likely not beatable as Classic Sonic (with the exception of Perfect Chaos).
 - Shadow: Black screen upon level load, unbeatable.
-- Perfect Chaos: Beatable as-is, can be edited to replace rainbow rings and trick launch pads.
+- Perfect Chaos: (https://youtu.be/zNTkmtZ2-oI)
 - Silver: Classic Sonic is too slow to get attacks in, even with Super Sonic or the homing attack.
 - Egg Dragoon: Classic Sonic is too slow to get attacks in, and the game crashes when skydiving.
