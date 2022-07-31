@@ -6,7 +6,7 @@ A slight level mod to allow Classic Sonic to fully traverse Modern Sonic's Act 2
 - Sky Sanctuary Act 2 (https://youtu.be/1n_E0HG7ZRg)
 - Speed Highway (https://youtu.be/_0IDJ-jdsoQ)
 - City Escape (https://youtu.be/K31_5Zfglh0)
-- Seaside Hill (not edited yet)
+- Seaside Hill (https://youtu.be/adpD2uh4rGA)
 - Crisis City (not edited yet)
 - Rooftop Run (not edited yet)
 - Planet Wisp (not likely, crashes upon load)
